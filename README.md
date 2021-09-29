@@ -5,8 +5,8 @@
 | |  | | | (_) >  <| |_| /\__/ / (__| | | (_| | |_) |  __/ |   
 \_|  |_|  \___/_/\_\\__,  \____/ \___|_|  \__,_| .__/ \___|_|   
                      __/ |                     | |              
-                    |___/                     |_|```
-
+                    |___/                     |_|
+```
 # ProxyScraper.py
 A ProxyScraper in python using  a already made list so you can just implement it in your code if you want to use proxys
 
